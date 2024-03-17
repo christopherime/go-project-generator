@@ -1,7 +1,5 @@
-/*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
+// main.go
 
-*/
 package main
 
 import "github.com/christopherime/go-project-generator/cmd"
